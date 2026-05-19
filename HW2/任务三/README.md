@@ -57,10 +57,3 @@ task3_unet_segmentation/
 
 torch>=1.9.0, torchvision>=0.10.0, numpy>=1.19.0, Pillow>=8.0.0, matplotlib>=3.3.0, tqdm>=4.50.0, swanlab>=0.3.0
 
-## 代码仓库
-
-[GitHub链接]
-
-## 模型权重
-
-[网盘链接]
