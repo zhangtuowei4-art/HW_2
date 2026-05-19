@@ -1,0 +1,16 @@
+# 数据集配置
+path: ./data
+train: train/images
+val: valid/images
+
+# 类别数量（根据你的数据集修改）
+nc: 21
+
+# 类别名称（根据你的数据集修改）
+names: [
+    'car', 'bus', 'motorbike', 'truck', 'pickup',
+    'minivan', 'suv', 'van', 'bicycle', 'auto_rickshaw',
+    'human_hauler', 'wheelbarrow', 'ambulance', 'minibus', 'taxi',
+    'army_vehicle', 'scooter', 'policecar', 'garbagevan',
+    'three_wheelers_cng', 'rickshaw'
+]
