@@ -108,13 +108,7 @@ python scripts/track.py --source 0 --line "200,350,1080,350"
 | Recall | 0.457 |
 | FPS | 102 |
 
-## 模型下载
 
-- [Google Drive] https://drive.google.com/drive/folders/xxx
-
-## 可视化
-
-SwanLab 项目：https://swanlab.cn/@chaiyk/vehicle-detection-task2
 
 ## 常见问题
 
